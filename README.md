@@ -116,4 +116,4 @@ We would love for you to contribute to different languages and help make it even
 | Ukrainian                    | [Teraskull](https://github.com/Teraskull)          |
 | Urdu                         | [mHassan11](https://github.com/mHassan11)          |
 
-The QR code value is generated in `src/App.jsx`.
+The QR code value is generated in `src/components/WifiCard.jsx`.
