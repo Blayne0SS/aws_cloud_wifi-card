@@ -117,6 +117,3 @@ We would love for you to contribute to different languages and help make it even
 | Urdu                         | [mHassan11](https://github.com/mHassan11)          |
 
 The QR code value is generated in `src/App.jsx`.
-
-
-<!-- CAB432 documentation tool test -->
