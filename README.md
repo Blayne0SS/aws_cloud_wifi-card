@@ -16,7 +16,7 @@ This will focus on incorporating a Amazon LLM while using Amazons cloud service 
 5.Produce a project overview and maintenance digest 
    Explain the project’s purpose and structure, summarise outstanding issues, report the latest check results, and recommend       next actions. Run this periodically.
 
-
+Due to this being a assignment the repository which links this to AWS cloud services is set to private
 
 ![ci](https://github.com/bndw/wifi-card/workflows/ci/badge.svg)
 
